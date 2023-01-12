@@ -1,0 +1,14 @@
+{
+  "TOKEN": "MTA0ODUwNTU5MjUzODQ4NDc4OA.GiWoMK.9IU8J_cgxwhve8e3qT8a8PG2XN9X8Projk1c94",
+  "CLIENT_ID": "1048505592538484788",
+	"prefix": "//",
+	"verifyRole": "1016704626956963870",
+    "logs": "1057688454294679573",
+    "embedColor": "0x303236",
+    "invite": "https://paradisebot.ml",
+    "support": "https://dsc.gg/pcrpdeveloping",
+  "mongodb": "mongodb+srv://Uptimer:uptimer@cluster0.hnqhz8b.mongodb.net/?retryWrites=true&w=majority",
+	"messages": {
+		"COOLDOWN_MESSAGE": "You are on `<duration>` cooldown!"
+	}
+}
